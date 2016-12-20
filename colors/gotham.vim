@@ -180,7 +180,7 @@ call s:Col('Search', 'base2', 'base3')
 call s:Attr('IncSearch', 'reverse')
 
 " Popup menu.
-call s:Col('Pmenu', 'base6', 'base2')
+call s:Col('Pmenu', 'base6', 'base3')
 call s:Col('PmenuSel', 'base7', 'base4')
 call s:Col('PmenuSbar', '', 'base2')
 call s:Col('PmenuThumb', '', 'base4')
