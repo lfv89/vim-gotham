@@ -176,7 +176,7 @@ call s:Col('Folded', 'base6', 'blue')
 call s:Col('FoldColumn', 'base5', 'base3')
 
 " Searching.
-call s:Col('Search', 'base2', 'yellow')
+call s:Col('Search', 'base2', 'base3')
 call s:Attr('IncSearch', 'reverse')
 
 " Popup menu.
