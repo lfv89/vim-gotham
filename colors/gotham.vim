@@ -166,7 +166,7 @@ call s:Col('VertSplit', 'base4', s:linenr_background)
 call s:Col('StatusLineNC', 'base4', 'base2')
 
 " Matching parenthesis.
-call s:Col('MatchParen', 'base1', 'orange')
+" call s:Col('MatchParen', 'base1', 'orange')
 
 " Special keys, e.g. some of the chars in 'listchars'. See ':h listchars'.
 call s:Col('SpecialKey', 'base3')
@@ -235,7 +235,7 @@ call s:Col('htmlArg', 'blue')
 call s:Col('htmlItalic', 'magenta')
 call s:Col('htmlBold', 'cyan', '')
 
-" Python                                                                                                                   
+" Python
 call s:Col('pythonStatement', 'blue')
 
 
